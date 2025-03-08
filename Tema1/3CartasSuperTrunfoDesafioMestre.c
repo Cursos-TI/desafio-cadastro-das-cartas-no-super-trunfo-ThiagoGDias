@@ -64,7 +64,7 @@ int main(){
     printf("A quantidade de pontos turísticos 2: %d\n", pontosturisticos2);
     printf("A área de sua cidade 2 é: %.2fkm²\n", area2);
     printf("O PIB da sua cidade 2 é: %.2f\n", PIB2);
-    printf("A densidade populacional é: %.2f\n", Den2);
+    printf("A Densidade populacional é: %.2f\n", Den2);
     printf("O PIB da capital é: %.2f\n", PIBC2);
 
     //Comparação das cidades
@@ -72,7 +72,7 @@ int main(){
     printf("Pontos Turísticos: Carta %d venceu\n", pontosturisticos1 > pontosturisticos2);
     printf("Área: Carta %d venceu\n", area1 > area2);
     printf("PIB: Carta %d venceu\n", PIB1 > PIB2);
-    printf("Dencidade populacional: Carta %d venceu\n", Den1 > Den2);
+    printf("Densidade populacional: Carta %d venceu\n", Den1 > Den2);
     printf("PIB da capital: Carta %d venceu\n", PIBC1 > PIBC2);
     printf("Super poder: Carta %d venceu\n", SuperPoder1 > SuperPoder2);
 

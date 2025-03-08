@@ -135,9 +135,9 @@ int main(){
     if (Den1 < Den2) {
         printf("Dencidade populacional: A cidade 1 (%s) venceu!\n", nome1);
     } else if (Den1 > Den2) {
-        printf("Dencidade populacional A cidade 2 (%s) venceu!\n", nome2);
+        printf("Densidade populacional A cidade 2 (%s) venceu!\n", nome2);
     } else {
-        printf("Dencidade populacional:Empate! Ambas as cidades têm a mesma dencidade populacional.\n");
+        printf("Densidade populacional:Empate! Ambas as cidades têm a mesma dencidade populacional.\n");
     }
         break;
     case 6:
@@ -195,9 +195,9 @@ int main(){
     if (Den1 < Den2) {
         printf("Dencidade populacional: A cidade 1 (%s) venceu!\n", nome1);
     } else if (Den1 > Den2) {
-        printf("Dencidade populacional A cidade 2 (%s) venceu!\n", nome2);
+        printf("Densidade populacional A cidade 2 (%s) venceu!\n", nome2);
     } else {
-        printf("Dencidade populacional: Ambas as cidades têm a mesma dencidade populacional.\n");
+        printf("Densidade populacional: Ambas as cidades têm a mesma dencidade populacional.\n");
     }
 
     if (PIBC1 > PIBC2) {
